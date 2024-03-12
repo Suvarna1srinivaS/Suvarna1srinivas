@@ -1,6 +1,8 @@
 ### Hi! This is suvarna 👋
 
-- 🌱 I’m currently pursuing Advanced PGP in Data Science and Machine Learning
+- Data analyst 
+
+- 🌱 persuaded Advanced PGP in Data Science and Machine Learning
 - 💬 Ask me about any tech related stuff
 - 📫 Reach me on suvarnasreeramulu77@gmail.com
 - LinkedIn - https://www.linkedin.com/in/suvarna-apthi-7a5975234/
