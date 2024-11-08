@@ -36,8 +36,6 @@ Got a question about data analysis, machine learning, or tech in general? I’d 
 🌱 Fun Fact
 I’m always excited to learn the latest in AI/ML and expand my toolkit with cutting-edge data science practices!
 
-![Suvarna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suvarna1srinivaS&theme=vue&show_icons=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvarna1srinivaS)
 
 
