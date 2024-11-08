@@ -33,7 +33,7 @@ Got a question about data analysis, machine learning, or tech in general? I’d 
 - 📧 Email: suvarnasreeramulu77@gmail.com
 - 📄 LinkedIn - https://www.linkedin.com/in/suvarna-apthi-7a5975234/
 
-🌱 Fun Fact
+🌱 Fun Fact:   
 I’m always excited to learn the latest in AI/ML and expand my toolkit with cutting-edge data science practices!
 
 
