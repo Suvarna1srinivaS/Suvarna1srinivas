@@ -9,8 +9,6 @@ I'm a Data Analyst with a passion for transforming data into actionable insights
 
 
 
-
-
 💻 Tech Stack & Skills
 - Languages: Python, SQL
 - Data Processing & Analysis: Pandas, NumPy, 
@@ -22,6 +20,14 @@ I'm a Data Analyst with a passion for transforming data into actionable insights
 - Data Engineering: Redis, BigQuery, Flask
 - Cloud: Google Cloud, AWS (Seller API)
 
+📊 Projects
+1. Product Review Sentiment Analysis
+- An NLP-driven project to analyze product reviews, extracting sentiment insights and trends.
+- Tools Used: Python, NLTK, Flask API, openAI, LangChain
+
+2. End-to-End Data Pipeline with Redis and BigQuery
+- Developed a pipeline to ingest, transform, and store data in Redis and BigQuery for real-time usecase.
+- Tools Used: Python, Redis, BigQuery, Flask
 
 🔍 What I’m Currently Working On
 - Building end-to-end data pipelines with Redis and BigQuery
